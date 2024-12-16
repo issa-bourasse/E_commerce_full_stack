@@ -1,6 +1,6 @@
 # E-commerce Full Stack Application
 URL: https://startling-alfajores-4e8363.netlify.app
-This is a full-stack e-commerce application built with React, React Router, and TanStack Query (formerly React Query). The application includes user authentication, product listing, shopping cart functionality, and checkout process.
+This is a full-stack e-commerce application built with React, React Router,FireBase. The application includes user authentication, product listing, shopping cart functionality, and checkout process.
 
 ## Hosted URL
 
@@ -11,8 +11,8 @@ You can access the live application at: [Your Hosted URL](https://your-hosted-ur
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/e-commerce-full-stack.git
-   cd e-commerce-full-stack
+   git clone https://github.com/issa-bourasse/E_commerce_full_stack-.git
+   cd E-commerce-full-stack-
 
 2. Install the dependencies:
    npm install
