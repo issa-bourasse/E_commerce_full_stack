@@ -27,31 +27,6 @@ User authentication (sign in, sign up, sign out)
 Shopping cart functionality
 Checkout process (still in the process)
 
-Project Structure:
-src/
-├── components/
-│   ├── Logo/
-│   ├── cart-dropdown/
-│   ├── cart-icon/
-│   ├── sign-in/
-│   ├── sign-up-form/
-│   └── Products.jsx
-├── context/
-│   ├── cart.context.jsx
-│   ├── categories.context.jsx
-│   └── user.context.jsx
-├── routes/
-│   ├── authentication/
-│   ├── checkout/
-│   ├── navigation/
-│   ├── shop/
-│   └── home/
-├── utils/
-│   └── firebase/
-├── App.jsx
-├── index.jsx
-└── queryClient.js
-
 Firebase Database
 ![image](https://github.com/user-attachments/assets/cab74a27-6e84-4162-b780-ac011731ed34)
 ![image](https://github.com/user-attachments/assets/1cb722ab-5daa-4e0f-a5ed-ab4ecc8cdf01)
