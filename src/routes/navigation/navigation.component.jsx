@@ -5,9 +5,10 @@ import { UserContext } from "../../context/user.context";
 import { CartContext } from "../../context/cart.context";
 
 //deferent methode to import logo by me Mr issa bourasse
+import Logo from "../../components/Logo/Logo";
+
 // import { ReactComponent as CrwnLogo } from "../../assets/crwn.svg";
 
-import Logo from "../../components/Logo/Logo";
 import CartDropdown from "../../components/cart-dropdown/cart-dropdown.component";
 import {NavigationContainer,NavLink, NavLinks, LogoContainer } from "./navigation.style";
 
