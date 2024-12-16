@@ -2,16 +2,6 @@
 URL: https://startling-alfajores-4e8363.netlify.app
 This is a full-stack e-commerce application built with React, React Router, and TanStack Query (formerly React Query). The application includes user authentication, product listing, shopping cart functionality, and checkout process.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Hosted URL
 
 You can access the live application at: [Your Hosted URL](https://your-hosted-url.com)
