@@ -11,8 +11,8 @@ You can access the live application at: [Your Hosted URL](https://your-hosted-ur
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/issa-bourasse/E_commerce_full_stack-.git
-   cd E-commerce-full-stack-
+   git clone https://github.com/issa-bourasse/E_commerce_full_stack.git
+   cd E-commerce-full-stack
 
 2. Install the dependencies:
    npm install
